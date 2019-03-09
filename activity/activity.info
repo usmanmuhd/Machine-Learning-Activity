@@ -1,0 +1,6 @@
+[Activity]
+name = Machine Learning
+activity_version = 0.1
+bundle_id = org.sugarlabs.MLActivity
+exec = sugar-activity-web
+icon = activity-icon
